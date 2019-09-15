@@ -16,11 +16,11 @@ will yield a result of: 1 dollar, 1 quarter, 1 nickel, 3 pennies.
 
   1. The program first prompts the user to insert the price of the first item.
   2. The user will be asked if there is another item to add.
-        a. If the user selects 'Y', the program will repeat steps 1 and 2.
+        1. If the user selects 'Y', the program will repeat steps 1 and 2.
   3. If 'N' is selected, the program will ask how much was tendered.
   4. The program will display the difference of amount tendered and total cost.
-        a. If there is no change required, the program will inform the user.
-        b. if there is not enough tendered, the program will inform the user
+        1. If there is no change required, the program will inform the user.
+        2. if there is not enough tendered, the program will inform the user
            and display the amount the user is short.
   5. The program finally displays the amount to dispense - starting with the
      largest paper bills and decrementing down to the smallest coin change.
